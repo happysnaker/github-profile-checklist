@@ -1,11 +1,11 @@
 # github-profile-checklist
 
 [![Stars](https://img.shields.io/github/stars/happysnaker/github-profile-checklist?style=social)](https://github.com/happysnaker/github-profile-checklist/stargazers)
-[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/review/)
 
 A practical checklist for engineers who want a **stronger GitHub profile**, clearer **public proof of work**, and a portfolio that feels more technical and credible.
 
-> Want me to apply this checklist to your own GitHub? I offer a lightweight **¥99 async review** for profile positioning, pinned repos, README cleanup, and portfolio-page packaging on the [support page](https://happysnaker.github.io/support/).
+> Want me to apply this checklist to your own GitHub? I offer a lightweight **¥99 async review** for profile positioning, pinned repos, README cleanup, and portfolio-page packaging on the [review page](https://happysnaker.github.io/review/).
 
 This is especially useful for:
 
@@ -273,9 +273,9 @@ If this checklist saved you time:
 
 - star the repo
 - share it with another engineer cleaning up their GitHub
-- support my open-source work here: [happysnaker.github.io/support](https://happysnaker.github.io/support/)
+- book a review or support my open-source work here: [happysnaker.github.io/review](https://happysnaker.github.io/review/)
 - typical support fit: **¥9.9 / ¥19.9 / ¥49.9**
-- if you want compact async feedback on your GitHub profile, pinned repos, README, or portfolio page, I also offer a small paid review option on the support page
+- if you want compact async feedback on your GitHub profile, pinned repos, README, or portfolio page, I also offer a small paid review option on the review page
 
 ## License
 
