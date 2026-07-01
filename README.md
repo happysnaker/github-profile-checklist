@@ -233,6 +233,22 @@ If your profile is messy, improve it in this order:
 
 ---
 
+## Extra templates
+
+If you want to turn this checklist into actual cleanup work instead of just reading it:
+
+- [`docs/profile-audit-template.md`](./docs/profile-audit-template.md) — audit a GitHub profile like a hiring manager or interviewer
+- [`docs/pinned-repo-selection-matrix.md`](./docs/pinned-repo-selection-matrix.md) — score candidate repos before choosing what to pin
+
+These make the repo more practical for:
+
+- reviewing your own profile
+- helping a friend clean up their GitHub
+- running a team / student portfolio review
+- converting vague “my GitHub feels weak” anxiety into concrete edits
+
+---
+
 ## Related repos
 
 If you want a more technical public profile around backend / systems work, you may also want:
