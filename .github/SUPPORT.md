@@ -1,10 +1,9 @@
 ## Support
 
-If **github-profile-checklist** saved you time, helped your interview prep, or made implementation work easier, you can support continued maintenance here:
+If **github-profile-checklist** helped you clean up your public profile, the highest-value path is the dedicated review page:
 
-- Support page: https://happysnaker.github.io/support/
-- If GitHub shows a **Sponsor** button on this repo, it routes to the same support page
-- Direct support: WeChat Pay / Alipay QR codes are listed on the support page
-- Low-friction thanks: `¥9.9` / `¥19.9` already helps if one repo or note saved you time
-- Async feedback option: `¥99` for one public GitHub profile / README / repo-positioning pass
-- Email for async review: happysnaker@foxmail.com
+- Review page: https://happysnaker.github.io/review/
+- Direct support page: https://happysnaker.github.io/support/
+- GitHub Sponsor button (if shown): routes to the same review / support flow
+- WeChat Pay / Alipay QR codes are listed on the support page
+- Async review is a good fit for profile positioning, pinned repos, README cleanup, and portfolio-page packaging
