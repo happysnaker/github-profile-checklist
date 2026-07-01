@@ -247,6 +247,14 @@ These make the repo more practical for:
 - running a team / student portfolio review
 - converting vague “my GitHub feels weak” anxiety into concrete edits
 
+## Fastest way to use this repo
+
+1. copy the audit template
+2. score your candidate pinned repos with the matrix
+3. cut or archive anything that actively weakens your target role story
+4. rewrite the top 1–3 README files first
+5. only then worry about bio polish or extra cosmetic tweaks
+
 ---
 
 ## Related repos
