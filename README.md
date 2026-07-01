@@ -7,6 +7,8 @@ A practical checklist for engineers who want a **stronger GitHub profile**, clea
 
 > Want me to apply this checklist to your own GitHub? I offer a lightweight **¥99 async review** for profile positioning, pinned repos, README cleanup, and portfolio-page packaging on the [review page](https://happysnaker.github.io/review/).
 
+> If your GitHub already feels embarrassing, random, too student-like, or too weak for interviews, skip the generic advice and start from the [review page](https://happysnaker.github.io/review/).
+
 This is especially useful for:
 
 - backend / infra / systems engineers
