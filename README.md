@@ -233,6 +233,36 @@ If your profile is messy, improve it in this order:
 
 ---
 
+## Mini before / after example
+
+If your GitHub currently feels noisy, a useful transformation pattern is:
+
+- **before**: vague bio, random pinned repos, thin README files, weak coursework dominating first impression
+- **after**: clear backend / systems story, role-aligned pinned repos, stronger README framing, and at least some external code contribution signal
+
+A fuller worked example is here:
+
+- [`docs/before-after-example.md`](./docs/before-after-example.md)
+
+---
+
+## When to stop reading and just get a review
+
+The checklist is good when you mainly need structure. A dedicated async review is faster when you already know your GitHub feels weak, but you cannot tell **which repos to hide**, **which repos to pin**, or **how to rewrite your top README files without sounding fake**.
+
+Best fit for the review page:
+
+- your profile still feels too student-like or too random
+- your pinned repos do not clearly support your target role
+- you want ready-to-paste edits for bio / README / repo positioning
+- you want compact feedback instead of generic advice
+
+If that sounds like you:
+
+- [Review page](https://happysnaker.github.io/review/)
+
+---
+
 ## Extra templates
 
 If you want to turn this checklist into actual cleanup work instead of just reading it:
