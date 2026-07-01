@@ -5,6 +5,8 @@
 
 A practical checklist for engineers who want a **stronger GitHub profile**, clearer **public proof of work**, and a portfolio that feels more technical and credible.
 
+> Want me to apply this checklist to your own GitHub? I offer a lightweight **¥99 async review** for profile positioning, pinned repos, README cleanup, and portfolio-page packaging on the [support page](https://happysnaker.github.io/support/).
+
 This is especially useful for:
 
 - backend / infra / systems engineers
