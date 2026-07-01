@@ -271,6 +271,7 @@ If you want to turn this checklist into actual cleanup work instead of just read
 
 - [`docs/profile-audit-template.md`](./docs/profile-audit-template.md) — audit a GitHub profile like a hiring manager or interviewer
 - [`docs/pinned-repo-selection-matrix.md`](./docs/pinned-repo-selection-matrix.md) — score candidate repos before choosing what to pin
+- [`docs/redacted-audit-sample.md`](./docs/redacted-audit-sample.md) — see what a compact async audit output can actually look like
 
 These make the repo more practical for:
 
@@ -308,6 +309,7 @@ If this checklist saved you time:
 - book a review or support my open-source work here: [happysnaker.github.io/review](https://happysnaker.github.io/review/)
 - typical support fit: **¥9.9 / ¥19.9 / ¥49.9**
 - if you want compact async feedback on your GitHub profile, pinned repos, README, or portfolio page, I also offer a small paid review option on the review page
+- if you want to know what you would actually receive, start with the redacted sample audit here: [`docs/redacted-audit-sample.md`](./docs/redacted-audit-sample.md)
 
 ## License
 
