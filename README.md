@@ -1,0 +1,256 @@
+# github-profile-checklist
+
+[![Stars](https://img.shields.io/github/stars/happysnaker/github-profile-checklist?style=social)](https://github.com/happysnaker/github-profile-checklist/stargazers)
+[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+
+A practical checklist for engineers who want a **stronger GitHub profile**, clearer **public proof of work**, and a portfolio that feels more technical and credible.
+
+This is especially useful for:
+
+- backend / infra / systems engineers
+- students trying to look less like coursework-only candidates
+- self-taught engineers building public proof of work
+- interview prep and public portfolio cleanup
+- anyone whose GitHub currently feels noisy, weak, or unfocused
+
+## What this checklist is for
+
+A strong GitHub profile should help someone answer questions like:
+
+- What kind of engineer are you?
+- What do you actually build?
+- Can you finish things?
+- Have you contributed outside your own repos?
+- Do your repos feel like reusable assets or abandoned experiments?
+- If I interview you, what technical signals already exist before we talk?
+
+This checklist is designed to make those answers more obvious.
+
+---
+
+## 1. Profile basics
+
+- [ ] Profile name is professional and consistent with résumé / portfolio
+- [ ] Bio says what kind of engineer you are in one sentence
+- [ ] Location / website / contact method are present if useful
+- [ ] Profile does not read like a joke, placeholder, or student-only page
+- [ ] Public profile is aligned with the roles you actually want
+
+### Good outcomes
+
+- someone can identify your engineering direction in 5 seconds
+- your profile feels intentional instead of accidental
+
+---
+
+## 2. Pinned repositories
+
+- [ ] Pinned repos match the role you want next
+- [ ] At least 2–4 pinned repos are truly relevant to your target role
+- [ ] Weak, random, or outdated student projects are not pinned
+- [ ] Pinned repos include a mix of build / design / systems / reuse signals when possible
+- [ ] Repo order makes sense for first impressions
+
+### Common mistakes
+
+- pinning only coursework or toy demos
+- pinning visually flashy but technically weak projects
+- pinning repos with broken README or no explanation
+- mixing unrelated personas with no clear story
+
+---
+
+## 3. Repository quality signals
+
+For each important public repo:
+
+- [ ] Title is clear and searchable
+- [ ] Description explains what it is and who it is for
+- [ ] README explains why the repo exists
+- [ ] README explains what is included
+- [ ] Setup / usage is short and realistic
+- [ ] Repo does not look abandoned or half-finished
+- [ ] Topics are added for discoverability
+- [ ] Homepage link is intentional
+- [ ] License exists when appropriate
+- [ ] First impression is understandable without opening many files
+
+### Strong repo signals
+
+- starter templates
+- reusable middleware / libraries
+- checklists / playbooks / notes with real usefulness
+- implementation-oriented examples
+- design docs, ops docs, or worked examples that teach something
+
+---
+
+## 4. README signal
+
+A strong README should quickly answer:
+
+- [ ] What is this?
+- [ ] Why does it exist?
+- [ ] Who should use it?
+- [ ] What problem does it solve?
+- [ ] Why is this better than a throwaway demo?
+- [ ] How do I try it quickly?
+- [ ] What is the current scope and what is intentionally not included?
+
+### Weak README smells
+
+- generic one-line description only
+- screenshot with no technical explanation
+- huge wall of text before saying what the project is
+- lots of buzzwords, little concrete value
+- no quick start, no structure, no scope
+
+---
+
+## 5. Public proof of work
+
+- [ ] You have at least one repo that feels reusable, not just personal
+- [ ] You have at least one repo that demonstrates implementation depth
+- [ ] You have at least one repo that demonstrates systems / backend / infra thinking if that is your target
+- [ ] You have at least one repo or note that teaches or explains something clearly
+- [ ] Repo selection shows taste, prioritization, and cleanup ability
+
+### Good proof-of-work examples
+
+- service starter
+- middleware / library
+- production checklist
+- system design checklist
+- performance / debugging writeup
+- real open-source bug fix with tests
+
+---
+
+## 6. Open-source contribution signal
+
+- [ ] You have at least a few external contributions, not only self-owned repos
+- [ ] At least some contributions are to recognized engineering projects
+- [ ] Code / behavior fixes exist, not only typo PRs
+- [ ] You can explain the bug, fix, and tradeoff clearly
+- [ ] Open PRs are focused and technically credible
+
+### Better than “many small docs PRs”
+
+- bug fixes with tests
+- edge-case handling
+- panic / correctness fixes
+- behavior alignment fixes
+- API consistency fixes
+- developer-experience fixes that remove real ambiguity
+
+---
+
+## 7. Noise cleanup
+
+- [ ] Low-quality old repos are hidden, archived, or deprioritized
+- [ ] Repo descriptions do not expose obvious placeholder history
+- [ ] Public repos do not feel like a random dump of everything ever tried
+- [ ] Fork noise is minimized where possible
+- [ ] Project naming is readable and not chaotic
+
+### What to hide or de-emphasize first
+
+- broken class projects
+- empty experiments
+- placeholders / test repos
+- outdated forks that add no signal
+- projects that actively hurt your target persona
+
+---
+
+## 8. Role alignment
+
+If you want **backend / infra / systems** roles, strong profile signals often include:
+
+- [ ] Go / Java / Rust / C++ or similar implementation work
+- [ ] HTTP / RPC / database / queue / observability topics
+- [ ] production-readiness or failure-mode thinking
+- [ ] system design / tradeoff explanations
+- [ ] performance, debugging, or reliability details
+
+If you want **frontend** roles, strong signals are different:
+
+- [ ] polished shipped UI
+- [ ] accessibility / responsiveness / state handling
+- [ ] component systems and interaction quality
+- [ ] real product thinking
+
+The repo mix should match the role, not just what was easiest to publish.
+
+---
+
+## 9. Conversion and opportunity
+
+If your GitHub is public, it can do more than look nice.
+
+- [ ] There is a clear path to contact you
+- [ ] There is a clear path to your résumé / portfolio
+- [ ] Strong repos have intentional homepage links
+- [ ] Your profile can convert into interviews, collaboration, or referrals
+- [ ] If you maintain useful public assets, there is a tasteful support path
+
+### Low-friction conversion ideas
+
+- support / donation page for useful public repos
+- lightweight async profile / README review offer
+- one clear email path for collaboration
+- strong portfolio link in profile header
+
+---
+
+## 10. Final audit questions
+
+Before calling your profile “ready,” can you answer yes to these?
+
+- [ ] In 10 seconds, a stranger can tell what kind of engineer I am
+- [ ] My pinned repos support that story
+- [ ] My best public repos feel intentional and readable
+- [ ] My weak old work is not dominating first impressions
+- [ ] I have some public proof outside my own repos
+- [ ] My profile could plausibly impress a hiring manager before an interview
+- [ ] My GitHub creates opportunities instead of just existing
+
+---
+
+## Suggested improvement order
+
+If your profile is messy, improve it in this order:
+
+1. fix profile bio and website
+2. choose better pinned repos
+3. hide / archive / de-emphasize weak old repos
+4. rewrite README for top 3 repos
+5. add one reusable repo or checklist
+6. add one real open-source code contribution
+7. improve conversion: portfolio / support / contact path
+
+---
+
+## Related repos
+
+If you want a more technical public profile around backend / systems work, you may also want:
+
+- [`backend-engineer-checklist`](https://github.com/happysnaker/backend-engineer-checklist)
+- [`system-design-checklist`](https://github.com/happysnaker/system-design-checklist)
+- [`production-readiness-checklist`](https://github.com/happysnaker/production-readiness-checklist)
+- [`go-service-starter`](https://github.com/happysnaker/go-service-starter)
+- [`go-http-middleware-kit`](https://github.com/happysnaker/go-http-middleware-kit)
+
+## Support
+
+If this checklist saved you time:
+
+- star the repo
+- share it with another engineer cleaning up their GitHub
+- support my open-source work here: [happysnaker.github.io/support](https://happysnaker.github.io/support/)
+- typical support fit: **¥9.9 / ¥19.9 / ¥49.9**
+- if you want compact async feedback on your GitHub profile, pinned repos, README, or portfolio page, I also offer a small paid review option on the support page
+
+## License
+
+MIT
