@@ -1,6 +1,7 @@
 # github-profile-checklist
 
 [![Stars](https://img.shields.io/github/stars/happysnaker/github-profile-checklist?style=social)](https://github.com/happysnaker/github-profile-checklist/stargazers)
+[![Use this template](https://img.shields.io/badge/use%20this-template-62d2a2)](https://github.com/happysnaker/github-profile-checklist/generate)
 [![Project Page](https://img.shields.io/badge/project-page-7aa2ff)](https://happysnaker.github.io/github-profile-checklist/)
 [![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/#from-github-profile-checklist)
 [![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
