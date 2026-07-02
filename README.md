@@ -22,6 +22,8 @@ This is especially useful for:
 
 If you want to adapt this into your own personal or team audit, click **Use this template** on GitHub and turn it into your own checklist.
 
+- Project page: [happysnaker.github.io/github-profile-checklist](https://happysnaker.github.io/github-profile-checklist/)
+
 ## What this checklist is for
 
 A strong GitHub profile should help someone answer questions like:
