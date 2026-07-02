@@ -1,13 +1,16 @@
 # github-profile-checklist
 
 [![Stars](https://img.shields.io/github/stars/happysnaker/github-profile-checklist?style=social)](https://github.com/happysnaker/github-profile-checklist/stargazers)
-[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/review/)
+[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+[![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
 
 A practical checklist for engineers who want a **stronger GitHub profile**, clearer **public proof of work**, and a portfolio that feels more technical and credible.
 
-> Want me to apply this checklist to your own GitHub? I offer a lightweight **¥99 async review** for profile positioning, pinned repos, README cleanup, and portfolio-page packaging on the [review page](https://happysnaker.github.io/review/).
+> Want a blunt fast answer instead of generic advice? I offer a **¥29.9 quick GitHub read** for one public profile / repo / page: one blunt paragraph + top 3 fixes.
 
-> If your GitHub already feels embarrassing, random, too student-like, or too weak for interviews, skip the generic advice and start from the [review page](https://happysnaker.github.io/review/).
+> Want the fuller version? I also offer a **¥99 async review** for profile positioning, pinned repos, README cleanup, and portfolio-page packaging on the [review page](https://happysnaker.github.io/review/).
+
+> Preview the tone first in the [redacted sample audit](https://github.com/happysnaker/github-profile-checklist/blob/main/docs/redacted-audit-sample.md).
 
 This is especially useful for:
 
@@ -16,6 +19,8 @@ This is especially useful for:
 - self-taught engineers building public proof of work
 - interview prep and public portfolio cleanup
 - anyone whose GitHub currently feels noisy, weak, or unfocused
+
+If you want to adapt this into your own personal or team audit, click **Use this template** on GitHub and turn it into your own checklist.
 
 ## What this checklist is for
 
