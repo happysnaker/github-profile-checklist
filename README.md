@@ -1,10 +1,13 @@
 # github-profile-checklist
 
 [![Stars](https://img.shields.io/github/stars/happysnaker/github-profile-checklist?style=social)](https://github.com/happysnaker/github-profile-checklist/stargazers)
+[![Project Page](https://img.shields.io/badge/project-page-7aa2ff)](https://happysnaker.github.io/github-profile-checklist/)
 [![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/#from-github-profile-checklist)
 [![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
 
 A practical checklist for engineers who want a **stronger GitHub profile**, clearer **public proof of work**, and a portfolio that feels more technical and credible.
+
+- Project page: [happysnaker.github.io/github-profile-checklist](https://happysnaker.github.io/github-profile-checklist/)
 
 > Want a blunt fast answer instead of generic advice? I offer a **¥29.9 quick GitHub read** for one public profile / repo / page: one blunt paragraph + top 3 fixes.
 
