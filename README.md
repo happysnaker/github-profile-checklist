@@ -311,9 +311,11 @@ If this checklist saved you time:
 
 - star the repo
 - share it with another engineer cleaning up their GitHub
-- book a review or support my open-source work here: [happysnaker.github.io/review](https://happysnaker.github.io/review/)
+- support my open-source work here: [happysnaker.github.io/support](https://happysnaker.github.io/support/)
+- best payment note: `github-profile-checklist`
 - typical support fit: **¥9.9 / ¥19.9 / ¥49.9**
-- if you want compact async feedback on your GitHub profile, pinned repos, README, or portfolio page, I also offer a small paid review option on the review page
+- fastest path: tip directly if the checklist helped; use the paid review option only if you want concrete edits back
+- if you want compact async feedback on your GitHub profile, pinned repos, README, or portfolio page, I offer a **¥29.9** quick read and **¥99** async review on the review page: [happysnaker.github.io/review](https://happysnaker.github.io/review/)
 - if you want to know what you would actually receive, start with the redacted sample audit here: [`docs/redacted-audit-sample.md`](./docs/redacted-audit-sample.md)
 
 ## License
