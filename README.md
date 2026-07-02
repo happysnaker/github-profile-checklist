@@ -1,7 +1,7 @@
 # github-profile-checklist
 
 [![Stars](https://img.shields.io/github/stars/happysnaker/github-profile-checklist?style=social)](https://github.com/happysnaker/github-profile-checklist/stargazers)
-[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/#from-github-profile-checklist)
 [![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
 
 A practical checklist for engineers who want a **stronger GitHub profile**, clearer **public proof of work**, and a portfolio that feels more technical and credible.
@@ -313,7 +313,7 @@ If this checklist saved you time:
 
 - star the repo
 - share it with another engineer cleaning up their GitHub
-- support my open-source work here: [happysnaker.github.io/support](https://happysnaker.github.io/support/)
+- support my open-source work here: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-github-profile-checklist)
 - best payment note: `github-profile-checklist`
 - typical support fit: **¥9.9 / ¥19.9 / ¥49.9**
 - fastest path: tip directly if the checklist helped; use the paid review option only if you want concrete edits back
