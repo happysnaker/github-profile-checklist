@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Support / direct feedback
+    url: https://happysnaker.github.io/support/#from-github-profile-checklist
+    about: Tip if the checklist helped, or use the fastest repo-tied support path.
+  - name: ¥29.9 quick read / ¥99 async review
+    url: https://happysnaker.github.io/review/
+    about: Best fit if you want the checklist turned into concrete edits for your own profile, pinned repos, README, or landing page.
+  - name: github-profile-checklist support discussion
+    url: https://github.com/happysnaker/github-profile-checklist/discussions/1
+    about: See the shortest support path and maintainer note for this repo.
