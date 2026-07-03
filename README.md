@@ -9,6 +9,7 @@
 A practical checklist for engineers who want a **stronger GitHub profile**, clearer **public proof of work**, and a portfolio that feels more technical and credible.
 
 - Project page: [happysnaker.github.io/github-profile-checklist](https://happysnaker.github.io/github-profile-checklist/)
+- FAQ: [If this checklist resonates, should you self-audit, buy ¥29.9, or go straight to ¥99?](https://github.com/happysnaker/github-profile-checklist/discussions/2)
 
 > Want a blunt fast answer instead of generic advice? I offer a **¥29.9 quick GitHub read** for one public profile / repo / page: one blunt paragraph + top 3 fixes.
 
