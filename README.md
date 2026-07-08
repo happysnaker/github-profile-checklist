@@ -322,6 +322,7 @@ If this checklist saved you time:
 - star the repo
 - share it with another engineer cleaning up their GitHub
 - support my open-source work here: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-github-profile-checklist)
+- current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager)
 - shortest support thread: [If github-profile-checklist helped, here is the shortest support path](https://github.com/happysnaker/github-profile-checklist/discussions/1)
 - best payment note: `github-profile-checklist`
 - typical support fit: **¥9.9 / ¥19.9 / ¥49.9**
