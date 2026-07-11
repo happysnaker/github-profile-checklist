@@ -9,6 +9,8 @@
 A practical checklist for engineers who want a **stronger GitHub profile**, clearer **public proof of work**, and a portfolio that feels more technical and credible.
 
 - Project page: [happysnaker.github.io/github-profile-checklist](https://happysnaker.github.io/github-profile-checklist/)
+- Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
+- 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
 - FAQ: [If this checklist resonates, should you self-audit, buy ¥29.9, or go straight to ¥99?](https://github.com/happysnaker/github-profile-checklist/discussions/2)
 - Case note: [5 fast ways a GitHub profile still reads too student-ish](https://github.com/happysnaker/github-profile-checklist/discussions/3)
 
@@ -19,6 +21,8 @@ A practical checklist for engineers who want a **stronger GitHub profile**, clea
 > Preview the tone first in the [redacted sample audit](https://github.com/happysnaker/github-profile-checklist/blob/main/docs/redacted-audit-sample.md).
 
 > Ready to send after paying? Use the one-click templates: [¥29.9 quick read](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20profile%2Frepo%2Fpage%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%0APayment%20screenshot%3A%20attached) · [¥99 async review](mailto:happysnaker@foxmail.com?subject=Async%20review%20%7C%20target%20role%20%7C%20repo%2Fprofile%20link&body=Public%20link(s)%3A%0ATarget%20role%20or%20use%20case%3A%0AWhat%20feels%20weak%3A%0APayment%20screenshot%3A%20attached)
+>
+> Public issue privacy guardrail: do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues; use the intake replies first.
 
 This is especially useful for:
 
@@ -31,6 +35,8 @@ This is especially useful for:
 If you want to adapt this into your own personal or team audit, click **Use this template** on GitHub and turn it into your own checklist.
 
 - Project page: [happysnaker.github.io/github-profile-checklist](https://happysnaker.github.io/github-profile-checklist/)
+- Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
+- 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
 
 ## What this checklist is for
 
@@ -323,6 +329,8 @@ If this checklist saved you time:
 - share it with another engineer cleaning up their GitHub
 - support my open-source work here: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-github-profile-checklist)
 - current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager)
+- sponsor / paid-support intake replies: [share-kit intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies)
+- deploy-read sample before paying: [happysnaker.github.io/review/deploy-read-sample](https://happysnaker.github.io/review/deploy-read-sample/)
 - shortest support thread: [If github-profile-checklist helped, here is the shortest support path](https://github.com/happysnaker/github-profile-checklist/discussions/1)
 - best payment note: `github-profile-checklist`
 - typical support fit: **¥9.9 / ¥19.9 / ¥49.9**
