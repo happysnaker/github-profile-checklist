@@ -11,6 +11,7 @@ A practical checklist for engineers who want a **stronger GitHub profile**, clea
 - Project page: [happysnaker.github.io/github-profile-checklist](https://happysnaker.github.io/github-profile-checklist/)
 - Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
 - 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
+- Sponsor prospect pipeline: [docs/sponsor-prospect-pipeline.md](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md) — route profile/README customers to the right proof, CTA, support note, and guardrail before paying or asking for review
 - FAQ: [If this checklist resonates, should you self-audit, buy ¥29.9, or go straight to ¥99?](https://github.com/happysnaker/github-profile-checklist/discussions/2)
 - Case note: [5 fast ways a GitHub profile still reads too student-ish](https://github.com/happysnaker/github-profile-checklist/discussions/3)
 
@@ -21,6 +22,8 @@ A practical checklist for engineers who want a **stronger GitHub profile**, clea
 > Preview the tone first in the [redacted sample audit](https://github.com/happysnaker/github-profile-checklist/blob/main/docs/redacted-audit-sample.md).
 
 > Ready to send after paying? Use the one-click templates: [¥29.9 quick read](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20profile%2Frepo%2Fpage%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%0APayment%20screenshot%3A%20attach%20privately%20by%20email%20only%2C%20never%20in%20public%20issues) · [¥99 async review](mailto:happysnaker@foxmail.com?subject=Async%20review%20%7C%20target%20role%20%7C%20repo%2Fprofile%20link&body=Public%20link(s)%3A%0ATarget%20role%20or%20use%20case%3A%0AWhat%20feels%20weak%3A%0APayment%20screenshot%3A%20attach%20privately%20by%20email%20only%2C%20never%20in%20public%20issues)
+>
+> Route profile / README buyers through the sponsor prospect pipeline first so the ask maps to proof, CTA, support note, and guardrail before payment.
 >
 > Public issue privacy guardrail: do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues; use the intake replies first.
 
