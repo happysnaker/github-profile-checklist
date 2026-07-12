@@ -12,6 +12,7 @@ A practical checklist for engineers who want a **stronger GitHub profile**, clea
 - Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
 - 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
 - Sponsor prospect pipeline: [docs/sponsor-prospect-pipeline.md](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md) — route profile/README customers to the right proof, CTA, support note, and guardrail before paying or asking for review
+- Sponsor conversion scorecard: [docs/sponsor-conversion-scorecard.md](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md) — classify Hot / Warm / Nurture / No-send before turning profile feedback into a support ask
 - FAQ: [If this checklist resonates, should you self-audit, buy ¥29.9, or go straight to ¥99?](https://github.com/happysnaker/github-profile-checklist/discussions/2)
 - Case note: [5 fast ways a GitHub profile still reads too student-ish](https://github.com/happysnaker/github-profile-checklist/discussions/3)
 
@@ -333,6 +334,7 @@ If this checklist saved you time:
 - support my open-source work here: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-github-profile-checklist)
 - current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager)
 - sponsor / paid-support intake replies: [share-kit intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies)
+- sponsor conversion scorecard: [Hot / Warm / Nurture / No-send](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md) before asking for support or paid review
 - deploy-read sample before paying: [happysnaker.github.io/review/deploy-read-sample](https://happysnaker.github.io/review/deploy-read-sample/)
 - shortest support thread: [If github-profile-checklist helped, here is the shortest support path](https://github.com/happysnaker/github-profile-checklist/discussions/1)
 - best payment note: `github-profile-checklist`

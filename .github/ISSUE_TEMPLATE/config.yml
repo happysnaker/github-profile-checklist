@@ -12,6 +12,9 @@ contact_links:
   - name: Sponsor prospect pipeline
     url: https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md
     about: Route profile, README, resume-site, and landing-page review requests to the right proof, CTA, support note, and guardrail.
+  - name: Sponsor conversion scorecard
+    url: https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md
+    about: Classify profile/support asks as Hot / Warm / Nurture / No-send before asking for payment or review.
   - name: Support / direct feedback
     url: https://happysnaker.github.io/support/#from-github-profile-checklist
     about: Tip if the checklist helped, or use the fastest repo-tied support path.
