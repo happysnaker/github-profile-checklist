@@ -3,28 +3,14 @@
 [![Stars](https://img.shields.io/github/stars/happysnaker/github-profile-checklist?style=social)](https://github.com/happysnaker/github-profile-checklist/stargazers)
 [![Use this template](https://img.shields.io/badge/use%20this-template-62d2a2)](https://github.com/happysnaker/github-profile-checklist/generate)
 [![Project Page](https://img.shields.io/badge/project-page-7aa2ff)](https://happysnaker.github.io/github-profile-checklist/)
-[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/#from-github-profile-checklist)
-[![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
-
 A practical checklist for engineers who want a **stronger GitHub profile**, clearer **public proof of work**, and a portfolio that feels more technical and credible.
 
 - Project page: [happysnaker.github.io/github-profile-checklist](https://happysnaker.github.io/github-profile-checklist/)
-- Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
-- 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
-- Sponsor prospect pipeline: [docs/sponsor-prospect-pipeline.md](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md) — route profile/README customers to the right proof, CTA, support note, and guardrail before paying or asking for review
-- Sponsor conversion scorecard: [docs/sponsor-conversion-scorecard.md](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md) — classify Hot / Warm / Nurture / No-send before turning profile feedback into a support ask
-- FAQ: [If this checklist resonates, should you self-audit, buy ¥29.9, or go straight to ¥99?](https://github.com/happysnaker/github-profile-checklist/discussions/2)
 - Case note: [5 fast ways a GitHub profile still reads too student-ish](https://github.com/happysnaker/github-profile-checklist/discussions/3)
-
-> Want a blunt fast answer instead of generic advice? I offer a **¥29.9 quick GitHub read** for one public profile / repo / page: one blunt paragraph + top 3 fixes.
-
-> Want the fuller version? I also offer a **¥99 async review** for profile positioning, pinned repos, README cleanup, and portfolio-page packaging on the [review page](https://happysnaker.github.io/review/).
 
 > Preview the tone first in the [redacted sample audit](https://github.com/happysnaker/github-profile-checklist/blob/main/docs/redacted-audit-sample.md).
 
-> Ready to send after paying? Use the one-click templates: [¥29.9 quick read](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20profile%2Frepo%2Fpage%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%0APayment%20screenshot%3A%20attach%20privately%20by%20email%20only%2C%20never%20in%20public%20issues) · [¥99 async review](mailto:happysnaker@foxmail.com?subject=Async%20review%20%7C%20target%20role%20%7C%20repo%2Fprofile%20link&body=Public%20link(s)%3A%0ATarget%20role%20or%20use%20case%3A%0AWhat%20feels%20weak%3A%0APayment%20screenshot%3A%20attach%20privately%20by%20email%20only%2C%20never%20in%20public%20issues)
 >
-> Route profile / README buyers through the sponsor prospect pipeline first so the ask maps to proof, CTA, support note, and guardrail before payment.
 >
 > Public issue privacy guardrail: do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues; use the intake replies first.
 
@@ -39,9 +25,6 @@ This is especially useful for:
 If you want to adapt this into your own personal or team audit, click **Use this template** on GitHub and turn it into your own checklist.
 
 - Project page: [happysnaker.github.io/github-profile-checklist](https://happysnaker.github.io/github-profile-checklist/)
-- Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
-- 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
-
 ## What this checklist is for
 
 A strong GitHub profile should help someone answer questions like:
@@ -275,8 +258,6 @@ A fuller worked example is here:
 
 ## When to stop reading and just get a review
 
-The checklist is good when you mainly need structure. A dedicated async review is faster when you already know your GitHub feels weak, but you cannot tell **which repos to hide**, **which repos to pin**, or **how to rewrite your top README files without sounding fake**.
-
 Best fit for the review page:
 
 - your profile still feels too student-like or too random
@@ -285,8 +266,6 @@ Best fit for the review page:
 - you want compact feedback instead of generic advice
 
 If that sounds like you:
-
-- [Review page](https://happysnaker.github.io/review/)
 
 ---
 
@@ -331,16 +310,8 @@ If this checklist saved you time:
 
 - star the repo
 - share it with another engineer cleaning up their GitHub
-- support my open-source work here: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-github-profile-checklist)
-- current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager)
-- sponsor / paid-support intake replies: [share-kit intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies)
-- sponsor conversion scorecard: [Hot / Warm / Nurture / No-send](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md) before asking for support or paid review
-- deploy-read sample before paying: [happysnaker.github.io/review/deploy-read-sample](https://happysnaker.github.io/review/deploy-read-sample/)
 - shortest support thread: [If github-profile-checklist helped, here is the shortest support path](https://github.com/happysnaker/github-profile-checklist/discussions/1)
 - best payment note: `github-profile-checklist`
-- typical support fit: **¥9.9 / ¥19.9 / ¥49.9**
-- fastest path: tip directly if the checklist helped; use the paid review option only if you want concrete edits back
-- if you want compact async feedback on your GitHub profile, pinned repos, README, or portfolio page, I offer a **¥29.9** quick read and **¥99** async review on the review page: [happysnaker.github.io/review](https://happysnaker.github.io/review/)
 - if you want to know what you would actually receive, start with the redacted sample audit here: [`docs/redacted-audit-sample.md`](./docs/redacted-audit-sample.md)
 
 ## License
